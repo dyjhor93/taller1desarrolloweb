@@ -1,0 +1,7 @@
+titulo
+intengrantes
+descripcion
+requisitos funcionales
+requisitos no funcionales
+
+
